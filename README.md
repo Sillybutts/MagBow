@@ -5,7 +5,7 @@ MagBow, a pull back and release, Talon magazine fed bow blaster.
 
 ## An assembly and usage guide for the blaster will be released at a later date.
 
-Bow string must be removed from arms after play. Keeping the bow arms strung will result in the CPVC losing it's springiness, which causes firing unreliability.
+The bow string (paracord) must be removed from the bow arms after usage. Keeping the bow arms strung will result in the CPVC losing it's springiness, which causes firing unreliability.
 
 If you are having trouble with your plunger not catching, print the SearHeavier instead of the Sear part. Increase the sear elastic tension (tie it tighter).
 
