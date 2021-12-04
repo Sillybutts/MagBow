@@ -10,7 +10,7 @@ MagBow, a pull back and release, Talon magazine fed bow blaster.
 
 ## Images
 
-<img src="GHimages/MagBow%20Hardwarepng" width="500">
+<img src="GHimages/MagBow%20Hardware.png" width="500">
 <img src="GHimages/MagBow%20Printed%20Parts.png" width="500">
 <img src="GHimages/MagBow%20v4%20v176%201.png" width="500">
 <img src="GHimages/MagBow%20v4%20v176%202.png" width="500">
