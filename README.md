@@ -1,6 +1,15 @@
 # MagBow
 MagBow, a pull back and release, Talon magazine fed bow blaster.
 
+##THIS BLASTER IS IN OPEN BETA. IT CURRENTLY REQUIRES SOME TUNING TO FIRE RELIABLY, SO I DON'T RECOMMEND THIS AS A FIRST HOMEMADE PROJECT TO A NEW NERFER.
+
+Bow string must be removed from arms after play. Keeping the bow arms strung will result in the CPVC losing it's springiness, which causes firing unreliability.
+
+If you are having trouble with your plunger not catching, print the SearHeavier instead of the Sear part. Increase the sear elastic tension (tie it tighter).
+
+I recommend you print the tighter muzzle nut first. If it is too tight, then move to the normal muzzle nut. The tighter muzzle nut is perfect for CaptainSlug and Kuryaka barrels.
+
+##An assembly and usage guide for the blaster will be released at a later date.
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
