@@ -21,7 +21,7 @@ I recommend you print the tighter muzzle nut first. If it is too tight, then mov
 
 ## Images
 
-<img src="GHimages/Opaque/MagBow%20Hardware.png" width="500">
+<img src="GHimages/Opaque/MagBow%20Hardware.png" width="500"> 
 <img src="GHimages/Opaque/MagBow%20Printed%20Parts.png" width="500">
 <img src="GHimages/Opaque/MagBow%20v4%20v176%201.png" width="500">
 <img src="GHimages/Opaque/MagBow%20v4%20v176%202.png" width="500">
