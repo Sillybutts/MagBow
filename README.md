@@ -42,7 +42,7 @@ Hardware:
 
 ## Images
 
-<img src="GHimages/Opaque/MagBow%20Hardware2.png" width="500">
+<img src="GHimages/Opaque/MagBow%20Hardware3.png" width="500">
 <img src="GHimages/Opaque/MagBow%20Printed%20Parts.png" width="500">
 <img src="GHimages/Opaque/MagBow%20v4%20v176%201.png" width="500">
 <img src="GHimages/Opaque/MagBow%20v4%20v176%202.png" width="500">
