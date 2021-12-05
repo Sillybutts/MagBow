@@ -5,6 +5,8 @@ MagBow, a pull back and release, Talon magazine fed bow blaster.
 
 ## An assembly and usage guide for the blaster will be released at a later date.
 
+The MagBow is a pull back and release, Talon mag fed, bow blaster. It is a combo springer stringer, where the spring provides the actual force that propells the dart, and the string portion acts basically as a giant slamfire trigger. Performance of this blaster is the same as a Caliburn with the same barrel length and spring. 
+
 The bow string (paracord) must be removed from the bow arms after usage. Keeping the bow arms strung will result in the CPVC losing it's springiness, which causes firing unreliability.
 
 If you are having trouble with your plunger not catching, print the SearHeavier instead of the Sear part. Increase the sear elastic tension (tie it tighter).
