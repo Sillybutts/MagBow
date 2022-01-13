@@ -7,11 +7,15 @@ MagBow, a pull back and release, Talon magazine fed bow blaster.
 
 The MagBow is a pull back and release, Talon mag fed, bow blaster based on the Skewer by Charamile Designs. It is a combo springer stringer, where the spring provides the actual force that propels the dart, and the string portion acts basically as a giant slamfire trigger. Performance of this blaster is the same as a Caliburn with the same barrel length and spring. 
 
+## Usage & Printing
+
 The bow string (paracord) must be removed from the bow arms after usage. Keeping the bow arms strung will result in the CPVC losing it's springiness, which causes firing unreliability.
 
 If you are having trouble with your plunger not catching, print the SearHeavier instead of the Sear part. Increase the sear elastic tension (tie it tighter).
 
 I recommend you print the tighter muzzle nut first. If it is too tight, then move to the normal muzzle nut. The tighter muzzle nut is perfect for CaptainSlug and Kuryaka barrels.
+
+## Hardware
 
 Hardware: 
 - 7-5/16" long 1.5"OD Plunger Tube (Caliburn plunger tube)
@@ -35,6 +39,9 @@ Hardware:
 - 2x 21.5" long 1/2" CPVC pipe (used as bow arms)
 - 1x at least 55" long piece of paracord (used as bow string)
 
+## Misc.
+
+**If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
